@@ -1,5 +1,5 @@
 let nome="rubi"
-let nivel=
+
 
 ferro=0
 bronze=1000
